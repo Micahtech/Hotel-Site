@@ -40,12 +40,7 @@ const GlobalFooter = () => {
             </form>
           </div>
         </div>
-        <div className="text-center mt-10">
-          <p>Designed and styled by micahthegreat</p>
-          <p>
-            &copy; {new Date().getFullYear()} micahthegreat. All rights reserved.
-          </p>
-        </div>
+       
       </div>
     </footer>
   );
